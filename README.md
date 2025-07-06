@@ -83,6 +83,12 @@ const saran = {
 
 ---
 
+![GitHub Snake Dark](https://github.com/SaranSrini03/SaranSrini03/raw/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
