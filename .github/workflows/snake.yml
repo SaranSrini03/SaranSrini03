@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Publish snake SVG files
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
