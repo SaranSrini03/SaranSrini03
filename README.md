@@ -82,8 +82,11 @@ const saran = {
 </div>
 
 ---
+<h3 align="center" style="color:#26a641;">My GitHub Contributions</h3>
 
-![GitHub Snake Dark](https://github.com/SaranSrini03/SaranSrini03/raw/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://ghchart.rshah.org/000000/SaranSrini03" alt="SaranSrini03's Github chart" />
+</p>
 
 
 
