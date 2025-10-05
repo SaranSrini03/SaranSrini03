@@ -13,9 +13,9 @@ I'm    ███████╗ █████╗ ██████╗  ██
 
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000&color=000)](https://saransrini.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000&color=000)](https://linkedin.com/in/yourprofile)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=000&color=000)](https://x.com/Saransrini43373)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000&color=000)](https://www.instagram.com/saransrini_/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000&color=000)](https://linkedin.com/in/saransrini03)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=000&color=000)](https://x.com/s4r4nsr1n1)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000&color=000)](https://www.instagram.com/s4r4nsr1n1/)
 
 
 
